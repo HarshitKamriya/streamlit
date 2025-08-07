@@ -1,5 +1,5 @@
-streamlite
+streamlit
 pandas
 numpy
-
 scikit-learn
+
