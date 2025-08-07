@@ -1,4 +1,5 @@
 streamlite
 pandas
 numpy
-siket-learn
+
+scikit-learn
