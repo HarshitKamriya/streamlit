@@ -4,7 +4,7 @@ This project is based on the famous Iris dataset, which contains measurements of
 
 A machine learning model was trained to classify flowers into species, and the model has been deployed using Streamlit, allowing users to interactively predict the flower type by adjusting the input features.
 
-🔗 Live Demo: Click here to try it out
+🔗 Live Demo: https://app-rcyrxthjzzgeubxevbxzog.streamlit.app/
 
 📌 Project Overview
 
